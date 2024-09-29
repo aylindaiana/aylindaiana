@@ -13,7 +13,7 @@
 ### About me:
 Here are some ideas to get you started:
 
-- 🔭 I’m currently learning React
+- 🔭 I’m practicing C# and .Net
 - 🌱 I’m currently open to work
 - 💬 Thinking in new ideas with games and study hacks 
 - 📫 How to reach mein aylinpt02@gmail.com
