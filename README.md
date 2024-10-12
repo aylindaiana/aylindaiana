@@ -10,13 +10,13 @@
 </div>  
 ---
 
-### About me:
+### SOBRE MÍ:
 
- 🔭 I’m practicing C# and .Net
- 🌱 I’m currently open to work!
- 💬 Thinking in new ideas with games and study hacks 
- 📫 How to reach mein aylindaianapaniagua@gmail.com
- ⚡ Fun fact my first model after a shakebrake
+- 🔭 I’m practicing C# and .Net
+- 🌱 I’m currently open to work!
+- 💬 Thinking in new ideas with games and study hacks 
+- 📫 How to reach mein aylindaianapaniagua@gmail.com
+- ⚡ Fun fact my first model after a shakebrake
 
  ## Tecnologías:
 
