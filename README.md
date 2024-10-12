@@ -11,11 +11,21 @@
 ---
 
 ### About me:
-Here are some ideas to get you started:
 
-- 🔭 I’m practicing C# and .Net
-- 🌱 I’m currently open to work
-- 💬 Thinking in new ideas with games and study hacks 
-- 📫 How to reach mein aylinpt02@gmail.com
-- ⚡ Fun fact my first model after a shakebrake
+ 🔭 I’m practicing C# and .Net
+ 🌱 I’m currently open to work!
+ 💬 Thinking in new ideas with games and study hacks 
+ 📫 How to reach mein aylindaianapaniagua@gmail.com
+ ⚡ Fun fact my first model after a shakebrake
+
+ ## Tecnologías:
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
