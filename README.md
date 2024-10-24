@@ -1,6 +1,6 @@
 ---
 <div id='header' align='center'>
-    <h1 align='center'>Hi! 👋🏽 I'm Aylin</h1>
+    <h1 align='center'>Hello! 👋🏽 I'm Aylin</h1>
     <h3 align='center'>I'm a programming student apasionete with news tecnology and looking for develop my avalities </h3>
 </div>  
 <div id="badges" align="center">
@@ -12,11 +12,11 @@
 
 ### SOBRE MÍ:
 
-- 🔭 I’m practicing C# and .Net
+- 🔭 I’m practicing C# and .Net.
 - 🌱 I’m currently open to work!
-- 💬 Thinking in new ideas with games and study hacks 
+- 💬 Thinking in new ideas with games and study hacks.
 - 📫 How to reach mein aylindaianapaniagua@gmail.com
-- ⚡ Fun fact my first model after a shakebrake
+- ⚡ Fun fact my first model after a shakebrake.
 
  ## Tecnologías:
 
