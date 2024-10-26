@@ -13,10 +13,10 @@
 ### SOBRE MÍ:
 
 - 🔭 I’m practicing C# and .Net.
-- 🌱 I’m currently open to work!
-- 💬 Thinking in new ideas with games and study hacks.
-- 📫 How to reach mein aylindaianapaniagua@gmail.com
-- ⚡ Fun fact my first model after a shakebrake.
+- 🌱 I’m currently open to work in FULL TIME or PART TIME!
+- 💬 Thinking in new ideas with study hacks and web pages.
+- 📫 My contact is aylindaianapaniagua@gmail.com
+- ⚡ I hope you are well, good luck!
 
  ## Tecnologías:
 
