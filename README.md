@@ -1,6 +1,6 @@
 ---
 <div id='header' align='center'>
-    <h1 align='center'>¡Hello! 👋🏽 I'm Aylin</h1>
+    <h1 align='center'>¡Hello! 👋🏽 I'm Aylin </h1>
     <h3 align='center'>I'm a programming student apasionete with news tecnology and looking for develop my avalities </h3>
 </div>  
 <div id="badges" align="center">
