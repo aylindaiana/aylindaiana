@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://media.giphy.com/media/11kEuHSQAXXiGQ/giphy.gif?cid=790b7611ano68mzohrvnk5ev32zvorw0glw7ukmzimvw5v8d&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://camo.githubusercontent.com/a080cfbbb2aea39c9e9504005747f9a103556be2dd86035103000b099c4fb7d6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6965796c397a6d436a4f3462347436716f592f67697068792e676966)"  />
+<img align="right" height="150" src="https://camo.githubusercontent.com/a080cfbbb2aea39c9e9504005747f9a103556be2dd86035103000b099c4fb7d6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6965796c397a6d436a4f3462347436716f592f67697068792e676966"  />
 
 
 ### SOBRE MÍ:
