@@ -16,9 +16,9 @@
 
 ### SOBRE MÍ:
 
-- 🔭 Now a days i’m practicing C# and .Net
+- 🔭 Now a days i’m practicing C# with .Net
 - 🌱 I’m currently open to work in FULL TIME or PART TIME, i like to adapt in new environments.
-- 💬 Thinking in new ideas with study hacks and Web Pages.
+- 💬 Thinking in new ideas with study hacks and Web Pages. While studing in programming technique.
 - 📫 My contact is aylindaianapaniagua@gmail.com
 
  ## Tecnologías:
