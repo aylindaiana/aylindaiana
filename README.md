@@ -19,6 +19,7 @@
 - 🔭 Now a days i’m practicing C# with .Net and Java.
 - 🌱 I’m currently open to work in FULL TIME or PART TIME, i like to adapt in new environments and feel ready for new challenges that allow me to develop professionally.
 - 💬 Thinking in new ideas with study hacks and Web Pages. While studing in programming technique in U.T.N
+  Let's talk!
 - 📫 My contact is aylindaianapaniagua@gmail.com
 
  ## Tecnologías:
