@@ -17,8 +17,9 @@
 ### SOBRE MÍ:
 
 - 🔭 Now a days i’m practicing C# with .Net and Java.
+- Happy to share that recently, i graduated as Technical Degree in programming in U.T.N
 - 🌱 I’m currently open to work in FULL TIME or PART TIME, i like to adapt in new environments and feel ready for new challenges that allow me to develop professionally.
-- 💬 Thinking in new ideas with study hacks and Web Pages. While studing in programming technique in U.T.N
+- 💬 Thinking in new ideas with study hacks and Web Pages. While studing a bachelor's degree in science in Universidad de la Ciudad de Buenos Aires.
   Let's talk!
 - 📫 My contact is aylindaianapaniagua@gmail.com
 
