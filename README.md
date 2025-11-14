@@ -1,7 +1,7 @@
 ---
 <div id='header' align='center'>
     <h1 align='center'>¡Hello! 👋🏽 I'm Aylin </h1>
-    <h3 align='center'>I'm a programming student apasionete with news tecnology and looking for develop my avalities. </h3>
+    <h3 align='center'>I'm a programming student passionate about technology and looking to improve my skills </h3>
 </div>  
 <div id="badges" align="center">
     <a href="https://twitter.com/accxn05" target="_blanck" >
@@ -16,10 +16,10 @@
 
 ### SOBRE MÍ:
 
-- 🔭 Now a days i’m practicing C# with .Net and Java.
-- Happy to share that recently, i graduated as Technical Degree in programming in U.T.N
-- 🌱 I’m currently open to work in FULL TIME or PART TIME, i like to adapt in new environments and feel ready for new challenges that allow me to develop professionally.
-- 💬 Thinking in new ideas with study hacks and Web Pages. While studing a bachelor's degree in science in Universidad de la Ciudad de Buenos Aires.
+- 🔭 Currently, I’m practicing C# with .Net and Java.
+- Happy to share that recently, I graduated as Technical Degree in programming in U.T.N
+- 🌱 I’m currently open to work in FULL TIME or PART TIME, I like to adapt in new environments and feel ready for new challenges that allow me to develop professionally.
+- 💬 Thinking in new ideas with studing hacks and Web Pages. While studing a bachelor's degree in science in Universidad de la Ciudad de Buenos Aires.
   Let's talk!
 - 📫 My contact is aylindaianapaniagua@gmail.com
 
