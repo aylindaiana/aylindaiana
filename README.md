@@ -71,3 +71,14 @@
 </div>
 
 ###
+
+<h2>GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aylindaiana&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
+       align="middle" width="400" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aylindaiana&theme=material-palenight&hide_border=true"
+       align="middle" width="400" />
+</p>
+
